@@ -1,0 +1,16 @@
+.timer{
+    border: 2px solid red;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    background-color:grey;
+}
+
+.count{
+    border: 4px solid rebeccapurple;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    background-color:peachpuff;
+    font-size: 30px;
+}
